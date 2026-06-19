@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main(void){
+    int n,i=1;
+        do{
+            printf("%d\n",i);
+                i++;
+
+
+        }
+    while(i<=10);
+return EXIT_SUCCESS;
+}
